@@ -23,7 +23,7 @@ Para ejecutar el programa hay que pasar como argumento el tamaño deseado para l
   ```bash
   ./bit_array <Número de elementos>
   ```
-Si especificamos diferentes valores al número de elementos se obtienen los siguientes valores de tiempo (se mide tan solo el tiempo consumido en la generación inicial de cada vector con valores 0 o 1 aleatoriamente). Cabe mencionar que se han seleccionado los mejores tiempos para cada caso entre 10 ejecuciones del programa:
+Si especificamos diferentes valores al número de elementos se obtienen los siguientes valores de tiempo (se mide tan solo el tiempo consumido en la generación inicial de cada vector con valores 0 o 1 aleatoriamente). Cabe mencionar que se han seleccionado los mejores tiempos para cada caso entre 10 ejecuciones del programa (ver [medidas_tiempo] (https://github.com/pablopaolus/repositorio_pablopaolus/blob/master/medidas_tiempo.txt):
 
   Nº elementos  | Array de int | Vector de int | Vector de bool | Vector de char
 ----------------|--------------|---------------|----------------|-----------------
