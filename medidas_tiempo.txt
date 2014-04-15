@@ -1,0 +1,258 @@
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100
+Elapsed time 1 (int array): 0.000006 s
+Elapsed time 2 (vector<int>): 0.000140 s
+Elapsed time 3 (vector<bool>): 0.000018 s
+Elapsed time 4 (vector<char>): 0.000013 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100
+Elapsed time 1 (int array): 0.000005 s
+Elapsed time 2 (vector<int>): 0.000125 s
+Elapsed time 3 (vector<bool>): 0.000017 s
+Elapsed time 4 (vector<char>): 0.000012 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100
+Elapsed time 1 (int array): 0.000003 s
+Elapsed time 2 (vector<int>): 0.000093 s
+Elapsed time 3 (vector<bool>): 0.000012 s
+Elapsed time 4 (vector<char>): 0.000008 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100
+Elapsed time 1 (int array): 0.000003 s
+Elapsed time 2 (vector<int>): 0.000080 s
+Elapsed time 3 (vector<bool>): 0.000009 s
+Elapsed time 4 (vector<char>): 0.000006 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100
+Elapsed time 1 (int array): 0.000003 s
+Elapsed time 2 (vector<int>): 0.000074 s
+Elapsed time 3 (vector<bool>): 0.000009 s
+Elapsed time 4 (vector<char>): 0.000007 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100
+Elapsed time 1 (int array): 0.000002 s
+Elapsed time 2 (vector<int>): 0.000065 s
+Elapsed time 3 (vector<bool>): 0.000009 s
+Elapsed time 4 (vector<char>): 0.000006 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100
+Elapsed time 1 (int array): 0.000004 s
+Elapsed time 2 (vector<int>): 0.000097 s
+Elapsed time 3 (vector<bool>): 0.000013 s
+Elapsed time 4 (vector<char>): 0.000008 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100
+Elapsed time 1 (int array): 0.000006 s
+Elapsed time 2 (vector<int>): 0.000169 s
+Elapsed time 3 (vector<bool>): 0.000023 s
+Elapsed time 4 (vector<char>): 0.000016 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100
+Elapsed time 1 (int array): 0.000004 s
+Elapsed time 2 (vector<int>): 0.000102 s
+Elapsed time 3 (vector<bool>): 0.000067 s
+Elapsed time 4 (vector<char>): 0.000011 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100
+Elapsed time 1 (int array): 0.000002 s
+Elapsed time 2 (vector<int>): 0.000064 s
+Elapsed time 3 (vector<bool>): 0.000008 s
+Elapsed time 4 (vector<char>): 0.000005 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ clear
+
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000
+Elapsed time 1 (int array): 0.000032 s
+Elapsed time 2 (vector<int>): 0.000181 s
+Elapsed time 3 (vector<bool>): 0.000097 s
+Elapsed time 4 (vector<char>): 0.000060 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000
+Elapsed time 1 (int array): 0.000015 s
+Elapsed time 2 (vector<int>): 0.000086 s
+Elapsed time 3 (vector<bool>): 0.000047 s
+Elapsed time 4 (vector<char>): 0.000029 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000
+Elapsed time 1 (int array): 0.000025 s
+Elapsed time 2 (vector<int>): 0.000145 s
+Elapsed time 3 (vector<bool>): 0.000079 s
+Elapsed time 4 (vector<char>): 0.000049 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000
+Elapsed time 1 (int array): 0.000076 s
+Elapsed time 2 (vector<int>): 0.000134 s
+Elapsed time 3 (vector<bool>): 0.000074 s
+Elapsed time 4 (vector<char>): 0.000047 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000
+Elapsed time 1 (int array): 0.000025 s
+Elapsed time 2 (vector<int>): 0.000292 s
+Elapsed time 3 (vector<bool>): 0.000081 s
+Elapsed time 4 (vector<char>): 0.000048 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000
+Elapsed time 1 (int array): 0.000027 s
+Elapsed time 2 (vector<int>): 0.000160 s
+Elapsed time 3 (vector<bool>): 0.000087 s
+Elapsed time 4 (vector<char>): 0.000053 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000
+Elapsed time 1 (int array): 0.000036 s
+Elapsed time 2 (vector<int>): 0.000234 s
+Elapsed time 3 (vector<bool>): 0.000114 s
+Elapsed time 4 (vector<char>): 0.000070 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000
+Elapsed time 1 (int array): 0.000016 s
+Elapsed time 2 (vector<int>): 0.000093 s
+Elapsed time 3 (vector<bool>): 0.000050 s
+Elapsed time 4 (vector<char>): 0.000031 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000
+Elapsed time 1 (int array): 0.000015 s
+Elapsed time 2 (vector<int>): 0.000096 s
+Elapsed time 3 (vector<bool>): 0.000050 s
+Elapsed time 4 (vector<char>): 0.000031 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000
+Elapsed time 1 (int array): 0.000043 s
+Elapsed time 2 (vector<int>): 0.000091 s
+Elapsed time 3 (vector<bool>): 0.000051 s
+Elapsed time 4 (vector<char>): 0.000031 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ clear
+
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 10000
+Elapsed time 1 (int array): 0.000266 s
+Elapsed time 2 (vector<int>): 0.000586 s
+Elapsed time 3 (vector<bool>): 0.000718 s
+Elapsed time 4 (vector<char>): 0.000390 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 10000
+Elapsed time 1 (int array): 0.000427 s
+Elapsed time 2 (vector<int>): 0.000864 s
+Elapsed time 3 (vector<bool>): 0.001110 s
+Elapsed time 4 (vector<char>): 0.000550 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 10000
+Elapsed time 1 (int array): 0.000441 s
+Elapsed time 2 (vector<int>): 0.001023 s
+Elapsed time 3 (vector<bool>): 0.001212 s
+Elapsed time 4 (vector<char>): 0.000725 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 10000
+Elapsed time 1 (int array): 0.000271 s
+Elapsed time 2 (vector<int>): 0.000586 s
+Elapsed time 3 (vector<bool>): 0.000723 s
+Elapsed time 4 (vector<char>): 0.000384 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 10000
+Elapsed time 1 (int array): 0.000338 s
+Elapsed time 2 (vector<int>): 0.000751 s
+Elapsed time 3 (vector<bool>): 0.000906 s
+Elapsed time 4 (vector<char>): 0.000525 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 10000
+Elapsed time 1 (int array): 0.000243 s
+Elapsed time 2 (vector<int>): 0.000554 s
+Elapsed time 3 (vector<bool>): 0.000782 s
+Elapsed time 4 (vector<char>): 0.000353 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 10000
+Elapsed time 1 (int array): 0.000293 s
+Elapsed time 2 (vector<int>): 0.000646 s
+Elapsed time 3 (vector<bool>): 0.000805 s
+Elapsed time 4 (vector<char>): 0.000449 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 10000
+Elapsed time 1 (int array): 0.000632 s
+Elapsed time 2 (vector<int>): 0.000438 s
+Elapsed time 3 (vector<bool>): 0.000493 s
+Elapsed time 4 (vector<char>): 0.000239 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 10000
+Elapsed time 1 (int array): 0.000239 s
+Elapsed time 2 (vector<int>): 0.000562 s
+Elapsed time 3 (vector<bool>): 0.000646 s
+Elapsed time 4 (vector<char>): 0.000373 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 10000
+Elapsed time 1 (int array): 0.000323 s
+Elapsed time 2 (vector<int>): 0.000685 s
+Elapsed time 3 (vector<bool>): 0.000813 s
+Elapsed time 4 (vector<char>): 0.000444 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ clear
+
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100000
+Elapsed time 1 (int array): 0.003267 s
+Elapsed time 2 (vector<int>): 0.003067 s
+Elapsed time 3 (vector<bool>): 0.004357 s
+Elapsed time 4 (vector<char>): 0.002402 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100000
+Elapsed time 1 (int array): 0.003315 s
+Elapsed time 2 (vector<int>): 0.003120 s
+Elapsed time 3 (vector<bool>): 0.004313 s
+Elapsed time 4 (vector<char>): 0.002357 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100000
+Elapsed time 1 (int array): 0.002632 s
+Elapsed time 2 (vector<int>): 0.003419 s
+Elapsed time 3 (vector<bool>): 0.004975 s
+Elapsed time 4 (vector<char>): 0.002441 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100000
+Elapsed time 1 (int array): 0.001764 s
+Elapsed time 2 (vector<int>): 0.003115 s
+Elapsed time 3 (vector<bool>): 0.004509 s
+Elapsed time 4 (vector<char>): 0.002326 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100000
+Elapsed time 1 (int array): 0.005279 s
+Elapsed time 2 (vector<int>): 0.003006 s
+Elapsed time 3 (vector<bool>): 0.004224 s
+Elapsed time 4 (vector<char>): 0.002392 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100000
+Elapsed time 1 (int array): 0.003202 s
+Elapsed time 2 (vector<int>): 0.005688 s
+Elapsed time 3 (vector<bool>): 0.005806 s
+Elapsed time 4 (vector<char>): 0.002422 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100000
+Elapsed time 1 (int array): 0.002519 s
+Elapsed time 2 (vector<int>): 0.004950 s
+Elapsed time 3 (vector<bool>): 0.007043 s
+Elapsed time 4 (vector<char>): 0.002521 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100000
+Elapsed time 1 (int array): 0.004707 s
+Elapsed time 2 (vector<int>): 0.007396 s
+Elapsed time 3 (vector<bool>): 0.004232 s
+Elapsed time 4 (vector<char>): 0.002323 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100000
+Elapsed time 1 (int array): 0.001753 s
+Elapsed time 2 (vector<int>): 0.003013 s
+Elapsed time 3 (vector<bool>): 0.004243 s
+Elapsed time 4 (vector<char>): 0.003043 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 100000
+Elapsed time 1 (int array): 0.003248 s
+Elapsed time 2 (vector<int>): 0.003008 s
+Elapsed time 3 (vector<bool>): 0.004220 s
+Elapsed time 4 (vector<char>): 0.002455 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ clear
+
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000000
+Elapsed time 1 (int array): 0.024347 s
+Elapsed time 2 (vector<int>): 0.028646 s
+Elapsed time 3 (vector<bool>): 0.045919 s
+Elapsed time 4 (vector<char>): 0.026060 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000000
+Elapsed time 1 (int array): 0.023871 s
+Elapsed time 2 (vector<int>): 0.027062 s
+Elapsed time 3 (vector<bool>): 0.044730 s
+Elapsed time 4 (vector<char>): 0.025815 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000000
+Elapsed time 1 (int array): 0.019529 s
+Elapsed time 2 (vector<int>): 0.028187 s
+Elapsed time 3 (vector<bool>): 0.045666 s
+Elapsed time 4 (vector<char>): 0.027356 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000000
+Elapsed time 1 (int array): 0.017177 s
+Elapsed time 2 (vector<int>): 0.030489 s
+Elapsed time 3 (vector<bool>): 0.049403 s
+Elapsed time 4 (vector<char>): 0.028702 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000000
+Elapsed time 1 (int array): 0.021098 s
+Elapsed time 2 (vector<int>): 0.027246 s
+Elapsed time 3 (vector<bool>): 0.044021 s
+Elapsed time 4 (vector<char>): 0.026992 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000000
+Elapsed time 1 (int array): 0.017527 s
+Elapsed time 2 (vector<int>): 0.027286 s
+Elapsed time 3 (vector<bool>): 0.043753 s
+Elapsed time 4 (vector<char>): 0.026142 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000000
+Elapsed time 1 (int array): 0.017068 s
+Elapsed time 2 (vector<int>): 0.028749 s
+Elapsed time 3 (vector<bool>): 0.046293 s
+Elapsed time 4 (vector<char>): 0.025508 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000000
+Elapsed time 1 (int array): 0.017151 s
+Elapsed time 2 (vector<int>): 0.028668 s
+Elapsed time 3 (vector<bool>): 0.044895 s
+Elapsed time 4 (vector<char>): 0.025058 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000000
+Elapsed time 1 (int array): 0.017591 s
+Elapsed time 2 (vector<int>): 0.028317 s
+Elapsed time 3 (vector<bool>): 0.044281 s
+Elapsed time 4 (vector<char>): 0.026397 s
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./bit_array 1000000
+Elapsed time 1 (int array): 0.022473 s
+Elapsed time 2 (vector<int>): 0.027931 s
+Elapsed time 3 (vector<bool>): 0.045172 s
+Elapsed time 4 (vector<char>): 0.025163 s
