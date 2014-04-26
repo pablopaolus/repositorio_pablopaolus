@@ -1,0 +1,414 @@
+//TAMAÑO CADENA: 128 
+
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 128
+--------------------------------
+Elapsed time 1 (int array): 0.000006 s
+Count ones (int array): 69
+Elapsed time count-ones (int array): 0.000003 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000110 s
+Count ones (vector<char>): 72
+Elapsed time count-ones (vector<char>): 0.000007 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 128
+--------------------------------
+Elapsed time 1 (int array): 0.000007 s
+Count ones (int array): 70
+Elapsed time count-ones (int array): 0.000003 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000139 s
+Count ones (vector<char>): 59
+Elapsed time count-ones (vector<char>): 0.000008 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 128
+--------------------------------
+Elapsed time 1 (int array): 0.000008 s
+Count ones (int array): 59
+Elapsed time count-ones (int array): 0.000004 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000152 s
+Count ones (vector<char>): 67
+Elapsed time count-ones (vector<char>): 0.000009 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 128
+--------------------------------
+Elapsed time 1 (int array): 0.000005 s
+Count ones (int array): 69
+Elapsed time count-ones (int array): 0.000002 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000097 s
+Count ones (vector<char>): 64
+Elapsed time count-ones (vector<char>): 0.000006 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 128
+--------------------------------
+Elapsed time 1 (int array): 0.000005 s
+Count ones (int array): 71
+Elapsed time count-ones (int array): 0.000003 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000099 s
+Count ones (vector<char>): 61
+Elapsed time count-ones (vector<char>): 0.000006 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 128
+--------------------------------
+Elapsed time 1 (int array): 0.000005 s
+Count ones (int array): 76
+Elapsed time count-ones (int array): 0.000002 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000089 s
+Count ones (vector<char>): 58
+Elapsed time count-ones (vector<char>): 0.000006 s
+--------------------------------
+[3]+  Done                    gedit medidas_tiempo_fitness.txt
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 128
+--------------------------------
+Elapsed time 1 (int array): 0.000004 s
+Count ones (int array): 65
+Elapsed time count-ones (int array): 0.000002 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000103 s
+Count ones (vector<char>): 58
+Elapsed time count-ones (vector<char>): 0.000004 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 128
+--------------------------------
+Elapsed time 1 (int array): 0.000003 s
+Count ones (int array): 71
+Elapsed time count-ones (int array): 0.000001 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000074 s
+Count ones (vector<char>): 63
+Elapsed time count-ones (vector<char>): 0.000011 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 128
+--------------------------------
+Elapsed time 1 (int array): 0.000007 s
+Count ones (int array): 71
+Elapsed time count-ones (int array): 0.000003 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000127 s
+Count ones (vector<char>): 63
+Elapsed time count-ones (vector<char>): 0.000008 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 128
+--------------------------------
+Elapsed time 1 (int array): 0.000008 s
+Count ones (int array): 68
+Elapsed time count-ones (int array): 0.000003 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000142 s
+Count ones (vector<char>): 70
+Elapsed time count-ones (vector<char>): 0.000008 s
+--------------------------------
+
+//TAMAÑO CADENA: 256
+
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 256
+--------------------------------
+Elapsed time 1 (int array): 0.000004 s
+Count ones (int array): 146
+Elapsed time count-ones (int array): 0.000002 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000065 s
+Count ones (vector<char>): 130
+Elapsed time count-ones (vector<char>): 0.000007 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 256
+--------------------------------
+Elapsed time 1 (int array): 0.000014 s
+Count ones (int array): 128
+Elapsed time count-ones (int array): 0.000006 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000223 s
+Count ones (vector<char>): 136
+Elapsed time count-ones (vector<char>): 0.000018 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 256
+--------------------------------
+Elapsed time 1 (int array): 0.000008 s
+Count ones (int array): 128
+Elapsed time count-ones (int array): 0.000004 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000094 s
+Count ones (vector<char>): 121
+Elapsed time count-ones (vector<char>): 0.000011 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 256
+--------------------------------
+Elapsed time 1 (int array): 0.000005 s
+Count ones (int array): 145
+Elapsed time count-ones (int array): 0.000002 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000068 s
+Count ones (vector<char>): 130
+Elapsed time count-ones (vector<char>): 0.000007 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 256
+--------------------------------
+Elapsed time 1 (int array): 0.000009 s
+Count ones (int array): 123
+Elapsed time count-ones (int array): 0.000004 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000115 s
+Count ones (vector<char>): 115
+Elapsed time count-ones (vector<char>): 0.000012 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 256
+--------------------------------
+Elapsed time 1 (int array): 0.000016 s
+Count ones (int array): 138
+Elapsed time count-ones (int array): 0.000008 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000254 s
+Count ones (vector<char>): 119
+Elapsed time count-ones (vector<char>): 0.000022 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 256
+--------------------------------
+Elapsed time 1 (int array): 0.000010 s
+Count ones (int array): 136
+Elapsed time count-ones (int array): 0.000005 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000138 s
+Count ones (vector<char>): 133
+Elapsed time count-ones (vector<char>): 0.000014 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 256
+--------------------------------
+Elapsed time 1 (int array): 0.000009 s
+Count ones (int array): 135
+Elapsed time count-ones (int array): 0.000004 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000111 s
+Count ones (vector<char>): 116
+Elapsed time count-ones (vector<char>): 0.000012 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 256
+--------------------------------
+Elapsed time 1 (int array): 0.000018 s
+Count ones (int array): 135
+Elapsed time count-ones (int array): 0.000008 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000210 s
+Count ones (vector<char>): 116
+Elapsed time count-ones (vector<char>): 0.000021 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 256
+--------------------------------
+Elapsed time 1 (int array): 0.000006 s
+Count ones (int array): 120
+Elapsed time count-ones (int array): 0.000002 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000069 s
+Count ones (vector<char>): 130
+Elapsed time count-ones (vector<char>): 0.000007 s
+--------------------------------
+
+//TAMAÑO CADENA: 512
+
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 512
+--------------------------------
+Elapsed time 1 (int array): 0.000011 s
+Count ones (int array): 252
+Elapsed time count-ones (int array): 0.000005 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000085 s
+Count ones (vector<char>): 232
+Elapsed time count-ones (vector<char>): 0.000015 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 512
+--------------------------------
+Elapsed time 1 (int array): 0.000013 s
+Count ones (int array): 263
+Elapsed time count-ones (int array): 0.000007 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000107 s
+Count ones (vector<char>): 248
+Elapsed time count-ones (vector<char>): 0.000020 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 512
+--------------------------------
+Elapsed time 1 (int array): 0.000009 s
+Count ones (int array): 263
+Elapsed time count-ones (int array): 0.000004 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000074 s
+Count ones (vector<char>): 248
+Elapsed time count-ones (vector<char>): 0.000013 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 512
+--------------------------------
+Elapsed time 1 (int array): 0.000009 s
+Count ones (int array): 263
+Elapsed time count-ones (int array): 0.000004 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000076 s
+Count ones (vector<char>): 248
+Elapsed time count-ones (vector<char>): 0.000013 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 512
+--------------------------------
+Elapsed time 1 (int array): 0.000016 s
+Count ones (int array): 255
+Elapsed time count-ones (int array): 0.000008 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000127 s
+Count ones (vector<char>): 250
+Elapsed time count-ones (vector<char>): 0.000024 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 512
+--------------------------------
+Elapsed time 1 (int array): 0.000009 s
+Count ones (int array): 255
+Elapsed time count-ones (int array): 0.000004 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000072 s
+Count ones (vector<char>): 250
+Elapsed time count-ones (vector<char>): 0.000013 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 512
+--------------------------------
+Elapsed time 1 (int array): 0.000009 s
+Count ones (int array): 253
+Elapsed time count-ones (int array): 0.000004 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000084 s
+Count ones (vector<char>): 259
+Elapsed time count-ones (vector<char>): 0.000021 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 512
+--------------------------------
+Elapsed time 1 (int array): 0.000016 s
+Count ones (int array): 253
+Elapsed time count-ones (int array): 0.000007 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000137 s
+Count ones (vector<char>): 259
+Elapsed time count-ones (vector<char>): 0.000023 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 512
+--------------------------------
+Elapsed time 1 (int array): 0.000024 s
+Count ones (int array): 254
+Elapsed time count-ones (int array): 0.000012 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000192 s
+Count ones (vector<char>): 245
+Elapsed time count-ones (vector<char>): 0.000034 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 512
+--------------------------------
+Elapsed time 1 (int array): 0.000009 s
+Count ones (int array): 254
+Elapsed time count-ones (int array): 0.000005 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000079 s
+Count ones (vector<char>): 245
+Elapsed time count-ones (vector<char>): 0.000021 s
+--------------------------------
+
+//TAMAÑO CADENA: 1024
+
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 1024
+--------------------------------
+Elapsed time 1 (int array): 0.000023 s
+Count ones (int array): 490
+Elapsed time count-ones (int array): 0.000011 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000121 s
+Count ones (vector<char>): 526
+Elapsed time count-ones (vector<char>): 0.000038 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 1024
+--------------------------------
+Elapsed time 1 (int array): 0.000034 s
+Count ones (int array): 490
+Elapsed time count-ones (int array): 0.000015 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000252 s
+Count ones (vector<char>): 526
+Elapsed time count-ones (vector<char>): 0.000053 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 1024
+--------------------------------
+Elapsed time 1 (int array): 0.000045 s
+Count ones (int array): 490
+Elapsed time count-ones (int array): 0.000022 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000236 s
+Count ones (vector<char>): 526
+Elapsed time count-ones (vector<char>): 0.000128 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 1024
+--------------------------------
+Elapsed time 1 (int array): 0.000070 s
+Count ones (int array): 528
+Elapsed time count-ones (int array): 0.000014 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000171 s
+Count ones (vector<char>): 503
+Elapsed time count-ones (vector<char>): 0.000048 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 1024
+--------------------------------
+Elapsed time 1 (int array): 0.000027 s
+Count ones (int array): 528
+Elapsed time count-ones (int array): 0.000012 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000134 s
+Count ones (vector<char>): 503
+Elapsed time count-ones (vector<char>): 0.000043 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 1024
+--------------------------------
+Elapsed time 1 (int array): 0.000017 s
+Count ones (int array): 509
+Elapsed time count-ones (int array): 0.000008 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000088 s
+Count ones (vector<char>): 532
+Elapsed time count-ones (vector<char>): 0.000027 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 1024
+--------------------------------
+Elapsed time 1 (int array): 0.000045 s
+Count ones (int array): 509
+Elapsed time count-ones (int array): 0.000021 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000222 s
+Count ones (vector<char>): 532
+Elapsed time count-ones (vector<char>): 0.000069 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 1024
+--------------------------------
+Elapsed time 1 (int array): 0.000038 s
+Count ones (int array): 509
+Elapsed time count-ones (int array): 0.000018 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000221 s
+Count ones (vector<char>): 532
+Elapsed time count-ones (vector<char>): 0.000061 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 1024
+--------------------------------
+Elapsed time 1 (int array): 0.000053 s
+Count ones (int array): 520
+Elapsed time count-ones (int array): 0.000025 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000265 s
+Count ones (vector<char>): 538
+Elapsed time count-ones (vector<char>): 0.000163 s
+--------------------------------
+pablopaolus@ubuntu:~/repositorio_pablopaolus$ ./fitness 1024
+--------------------------------
+Elapsed time 1 (int array): 0.000035 s
+Count ones (int array): 501
+Elapsed time count-ones (int array): 0.000015 s
+--------------------------------
+Elapsed time 4 (vector<char>): 0.000231 s
+Count ones (vector<char>): 514
+Elapsed time count-ones (vector<char>): 0.000053 s
+--------------------------------
+
+
